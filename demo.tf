@@ -10,7 +10,7 @@ locals {
   arr3 = ["app1","app2","app3"]
 }
 
-output "test1" {
+output "test3" {
     value = local.arr2
   
 }
